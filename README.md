@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-[![Website](https://img.shields.io/badge/asdevs.netlify.app-%23000?style=for-the-badge&logo=netlify&logoColor=white)](https://asdevs.netlify.app)
+[![Website](https://img.shields.io/badge/asdevs.netlify.app-%23000?style=for-the-badge&logo=netlify&logoColor=white)](https://asdevs.qzz.io)
 [![Discord](https://img.shields.io/badge/Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xRW5rdAvs5)
 [![Views](https://komarev.com/ghpvc/?username=ItzAzeem&style=for-the-badge&color=a855f7&label=Profile+Views)](https://github.com/ItzAzeem)
 
